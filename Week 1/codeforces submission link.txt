@@ -1,0 +1,54 @@
+WEEK 1
+
+Codeforces Submission Links
+
+Sheet 1:
+
+Problem
+A: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375443274
+B: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375443890
+C: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375442912
+D: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375442200
+E: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375444819
+F: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375445930
+G: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375451502
+H: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375453164
+I: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375628581
+J: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375629051
+K: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375631613
+L: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375631755
+M: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375633086
+N: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375633166
+O: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375926781
+P: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375927605
+Q: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/375928348
+R: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376017105
+S: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376017764
+T: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376018934
+U: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376020798
+V: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376021716
+W: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376022283
+X: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376024829
+Y: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376025864
+Z: https://codeforces.com/group/MWSDmqGsZm/contest/219158/submission/376027331
+
+
+Sheet 2:
+
+Problem
+A: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376173464
+B: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376175177
+C: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376180122
+D: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376478911
+E: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376482410
+F: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376488434
+G: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376491508
+H: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376498607
+I: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376501211
+J: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376507095
+K: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376513616
+L: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376597728
+M: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376697829
+N: https://codeforces.com/group/c3FDl9EUi9/contest/262795/submission/376705051
+
+
