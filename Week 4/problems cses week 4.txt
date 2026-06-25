@@ -1,0 +1,47 @@
+WEEK 4
+
+Bit Manipulation Problems:-
+
+(Codeforces)XORwise: https://codeforces.com/contest/1421/submission/379788343
+
+(,,)Raising Bacteria: https://codeforces.com/contest/579/submission/379789752
+
+(,,)And 0,Sum Big: https://codeforces.com/contest/1514/submission/379798186
+
+(,,)You Are Given Two Binary Strings: https://codeforces.com/contest/1202/submission/380011116
+
+(,,)Johnny And His Hobbies: https://codeforces.com/contest/1362/submission/380086942
+
+(CodeChef)ANDSUBAR : https://www.codechef.com/viewsolution/1295112144
+
+(Codeforces)Co-Growing Sequence: https://codeforces.com/contest/1547/submission/380108314
+
+
+Number Theory Problems:-
+
+(LeetCode)Count Good Numbers: https://leetcode.com/problems/count-good-numbers/submissions/2045720647
+
+(AtCoder)Coprime 2: https://atcoder.jp/contests/abc215/submissions/76949615
+
+(LeetCode)Super Pow: https://leetcode.com/problems/super-pow/submissions/2045732540
+
+(Codeforces)Different Divisors: https://codeforces.com/contest/1474/submission/380111195
+
+(,,)Prime Matrix: https://codeforces.com/contest/271/submission/380111338
+
+(,,)T-primes: https://codeforces.com/contest/230/submission/380111484
+
+(SPOJ) - HS08PAUL: https://www.spoj.com/files/src/35830114/
+
+(Codeforces)Fadi and LCM: https://codeforces.com/contest/1285/submission/380114469
+
+(,,)Number Factorization: https://codeforces.com/contest/1787/submission/380114684
+
+
+
+ 
+
+
+
+
+
