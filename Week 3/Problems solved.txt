@@ -1,0 +1,44 @@
+WEEK 3 
+
+CSES PROBLEMSET:
+
+
+Maximum Subarray Sum: https://cses.fi/problemset/result/17511579/
+
+Dice Combinations: https://cses.fi/problemset/result/17604146/
+
+Minimizing Coins: https://cses.fi/problemset/result/17627877/
+
+Counting Rooms: https://cses.fi/problemset/result/17626281/
+
+Distinct Numbers: https://cses.fi/problemset/result/17435058/
+
+Apartments: https://cses.fi/problemset/result/17447325/
+
+Ferris Wheel: https://cses.fi/problemset/result/17448134/
+
+Concert Tickets: https://cses.fi/problemset/result/17452992/
+
+Restaurant Customers: https://cses.fi/problemset/result/17460700/
+
+Movie Festival: https://cses.fi/problemset/result/17469534/
+
+Sum of Two Values: https://cses.fi/problemset/result/17470041/
+
+Subarray Sums I: https://cses.fi/problemset/result/17420798/
+
+Subarray Sums II: https://cses.fi/problemset/result/17434748/
+
+Subarray Divisibility: https://cses.fi/problemset/result/17434940/
+
+Distinct Values Subarrays II: https://cses.fi/problemset/result/17698214/
+
+Array Division: https://cses.fi/problemset/result/17698099/
+
+Movie Festival II: https://cses.fi/problemset/result/17698143/
+
+Maximum Subarray Sum II: https://cses.fi/problemset/result/17698166/
+
+[Completing entire problemset was not possible as I was out of town at my Nani's place with family, so I tried to do my best. I'll try to complete the rest problems in the coming weeks.]
+
+
