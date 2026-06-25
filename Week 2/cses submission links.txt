@@ -1,0 +1,23 @@
+WEEK 2
+
+LeetCode Submission: https://leetcode.com/problems/two-sum/submissions/2021517298
+
+CSES Submission Links:
+
+Two Sum / Subarray / Prefix Sum Ideas:-
+
+Subarray Sums I: https://cses.fi/problemset/result/17420798/
+Subarray Sums II: https://cses.fi/problemset/result/17434748/
+Subarray Divisibility: https://cses.fi/problemset/result/17434940/
+
+Sorting, Greedy:-
+
+Distinct Numbers: https://cses.fi/problemset/result/17435058/
+Apartments: https://cses.fi/problemset/result/17447325/
+Ferris Wheel: https://cses.fi/problemset/result/17448134/
+Concert Tickets: https://cses.fi/problemset/result/17452992/
+Restaurant Customers: https://cses.fi/problemset/result/17460700/
+Movie Festival: https://cses.fi/problemset/result/17469534/
+Sum of Two Values: https://cses.fi/problemset/result/17470041/
+
+
