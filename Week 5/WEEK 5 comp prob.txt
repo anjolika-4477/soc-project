@@ -1,0 +1,30 @@
+WEEK 5 
+PROBLEMS SUBMISSION LINK
+
+Two Pointers:-
+
+1. sum of two values: https://cses.fi/problemset/result/17746708/
+2. sum of three values: https://cses.fi/problemset/result/17746837/
+3. books: https://codeforces.com/contest/279/submission/380577441
+4. kefa and company: https://codeforces.com/contest/580/submission/380683345
+5. cellular network: https://codeforces.com/contest/702/submission/380694710
+6. magic powder-1: https://codeforces.com/contest/670/submission/380703805
+7. two sum II : https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2051968996/
+8. container with most water: https://leetcode.com/problems/container-with-most-water/submissions/2052003789/
+
+
+Sliding Window:-
+
+1. playlist: https://cses.fi/problemset/result/17771654/
+2. subarray distinct values: https://cses.fi/problemset/result/17772334/
+3. maximum subarray sum II: https://cses.fi/problemset/result/17797735/
+4. longest substring without repeating characters: https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2054544115
+5. minimum size subarray sum: https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2054563020
+6. fruit into baskets: https://leetcode.com/problems/fruit-into-baskets/submissions/2055561712
+7. max consecutive ones III: https://leetcode.com/problems/max-consecutive-ones-iii/submissions/2055575100
+8. longest repeating character replacement: https://leetcode.com/problems/longest-repeating-character-replacement/submissions/2055604470
+9. vasya and string: https://codeforces.com/contest/676/submission/381323293
+10. fence: https://codeforces.com/contest/363/submission/381328961
+
+
+
