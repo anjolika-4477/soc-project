@@ -1,0 +1,3 @@
+WEEK 7
+ 
+I solved some of the dp problems, but I realised that I have to practice more, so I will do more of basics of recursion and all, then do entire dp problems.
